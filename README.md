@@ -6,7 +6,7 @@ Once I figure out how to make a basic webpage with a spreadsheet, I'll do that. 
 ## Little Kitty, Big City
 ### Bulletpoints
 * Using this installation of Little Kitty, Big City: https://fitgirl-repacks.site/little-kitty-big-city/
-* Running on Whisky
+* Running on Whisky: https://getwhisky.app/
 * Used an Xbox One S Controller connected via Bluetooth
 ### Notes
 I got it to run by doing the following
